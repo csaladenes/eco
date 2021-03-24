@@ -1,0 +1,589 @@
+DATE,ind,value,indicator
+2000-01-01,UNRATE,4.0,Unemployment Rate
+2000-01-31,DRTSCIS,9.4,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2000-01-31,BAMLH0A0HYM2,4.87,ICE BofA US High Yield Index Option-Adjusted Spread
+2000-02-01,UNRATE,4.1,Unemployment Rate
+2000-02-29,BAMLH0A0HYM2,5.08,ICE BofA US High Yield Index Option-Adjusted Spread
+2000-03-01,UNRATE,4.0,Unemployment Rate
+2000-03-31,BAMLH0A0HYM2,5.75,ICE BofA US High Yield Index Option-Adjusted Spread
+2000-04-01,UNRATE,3.8,Unemployment Rate
+2000-04-30,DRTSCIS,21.4,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2000-04-30,BAMLH0A0HYM2,5.88,ICE BofA US High Yield Index Option-Adjusted Spread
+2000-05-01,UNRATE,4.0,Unemployment Rate
+2000-05-31,BAMLH0A0HYM2,6.16,ICE BofA US High Yield Index Option-Adjusted Spread
+2000-06-01,UNRATE,4.0,Unemployment Rate
+2000-06-30,BAMLH0A0HYM2,6.17,ICE BofA US High Yield Index Option-Adjusted Spread
+2000-07-01,UNRATE,4.0,Unemployment Rate
+2000-07-31,DRTSCIS,23.6,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2000-07-31,BAMLH0A0HYM2,6.26,ICE BofA US High Yield Index Option-Adjusted Spread
+2000-08-01,UNRATE,4.1,Unemployment Rate
+2000-08-31,BAMLH0A0HYM2,6.43,ICE BofA US High Yield Index Option-Adjusted Spread
+2000-09-01,UNRATE,3.9,Unemployment Rate
+2000-09-30,BAMLH0A0HYM2,6.77,ICE BofA US High Yield Index Option-Adjusted Spread
+2000-10-01,UNRATE,3.9,Unemployment Rate
+2000-10-31,DRTSCIS,27.3,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2000-10-31,BAMLH0A0HYM2,7.79,ICE BofA US High Yield Index Option-Adjusted Spread
+2000-11-01,UNRATE,3.9,Unemployment Rate
+2000-11-30,BAMLH0A0HYM2,9.06,ICE BofA US High Yield Index Option-Adjusted Spread
+2000-12-01,UNRATE,3.9,Unemployment Rate
+2000-12-31,BAMLH0A0HYM2,9.16,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-01-01,UNRATE,4.2,Unemployment Rate
+2001-01-31,DRTSCIS,45.5,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2001-01-31,BAMLH0A0HYM2,7.87,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-02-01,UNRATE,4.2,Unemployment Rate
+2001-02-28,BAMLH0A0HYM2,7.7,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-03-01,UNRATE,4.3,Unemployment Rate
+2001-03-31,BAMLH0A0HYM2,8.18,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-04-01,UNRATE,4.4,Unemployment Rate
+2001-04-30,DRTSCIS,36.4,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2001-04-30,BAMLH0A0HYM2,8.06,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-05-01,UNRATE,4.3,Unemployment Rate
+2001-05-31,BAMLH0A0HYM2,7.68,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-06-01,UNRATE,4.5,Unemployment Rate
+2001-06-30,BAMLH0A0HYM2,8.16,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-07-01,UNRATE,4.6,Unemployment Rate
+2001-07-31,DRTSCIS,31.6,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2001-07-31,BAMLH0A0HYM2,8.27,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-08-01,UNRATE,4.9,Unemployment Rate
+2001-08-31,BAMLH0A0HYM2,8.05,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-09-01,UNRATE,5.0,Unemployment Rate
+2001-09-30,BAMLH0A0HYM2,10.18,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-10-01,UNRATE,5.3,Unemployment Rate
+2001-10-31,DRTSCIS,40.4,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2001-10-31,BAMLH0A0HYM2,9.61,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-11-01,UNRATE,5.5,Unemployment Rate
+2001-11-30,BAMLH0A0HYM2,8.39,ICE BofA US High Yield Index Option-Adjusted Spread
+2001-12-01,UNRATE,5.7,Unemployment Rate
+2001-12-31,BAMLH0A0HYM2,8.24,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-01-01,UNRATE,5.7,Unemployment Rate
+2002-01-31,DRTSCIS,41.8,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2002-01-31,BAMLH0A0HYM2,7.89,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-02-01,UNRATE,5.7,Unemployment Rate
+2002-02-28,BAMLH0A0HYM2,8.19,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-03-01,UNRATE,5.7,Unemployment Rate
+2002-03-31,BAMLH0A0HYM2,7.08,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-04-01,UNRATE,5.9,Unemployment Rate
+2002-04-30,DRTSCIS,14.5,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2002-04-30,BAMLH0A0HYM2,6.88,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-05-01,UNRATE,5.8,Unemployment Rate
+2002-05-31,BAMLH0A0HYM2,7.28,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-06-01,UNRATE,5.8,Unemployment Rate
+2002-06-30,BAMLH0A0HYM2,8.75,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-07-01,UNRATE,5.8,Unemployment Rate
+2002-07-31,DRTSCIS,5.5,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2002-07-31,BAMLH0A0HYM2,9.71,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-08-01,UNRATE,5.7,Unemployment Rate
+2002-08-31,BAMLH0A0HYM2,9.61,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-09-01,UNRATE,5.7,Unemployment Rate
+2002-09-30,BAMLH0A0HYM2,10.33,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-10-01,UNRATE,5.7,Unemployment Rate
+2002-10-31,DRTSCIS,18.2,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2002-10-31,BAMLH0A0HYM2,10.59,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-11-01,UNRATE,5.9,Unemployment Rate
+2002-11-30,BAMLH0A0HYM2,8.83,ICE BofA US High Yield Index Option-Adjusted Spread
+2002-12-01,UNRATE,6.0,Unemployment Rate
+2002-12-31,BAMLH0A0HYM2,8.9,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-01-01,UNRATE,5.8,Unemployment Rate
+2003-01-31,DRTSCIS,13.8,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2003-01-31,BAMLH0A0HYM2,8.29,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-02-01,UNRATE,5.9,Unemployment Rate
+2003-02-28,BAMLH0A0HYM2,8.38,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-03-01,UNRATE,5.9,Unemployment Rate
+2003-03-31,BAMLH0A0HYM2,7.72,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-04-01,UNRATE,6.0,Unemployment Rate
+2003-04-30,DRTSCIS,12.7,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2003-04-30,BAMLH0A0HYM2,6.44,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-05-01,UNRATE,6.1,Unemployment Rate
+2003-05-31,BAMLH0A0HYM2,6.79,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-06-01,UNRATE,6.3,Unemployment Rate
+2003-06-30,BAMLH0A0HYM2,6.13,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-07-01,UNRATE,6.2,Unemployment Rate
+2003-07-31,DRTSCIS,3.5,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2003-07-31,BAMLH0A0HYM2,5.67,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-08-01,UNRATE,6.1,Unemployment Rate
+2003-08-31,BAMLH0A0HYM2,5.46,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-09-01,UNRATE,6.1,Unemployment Rate
+2003-09-30,BAMLH0A0HYM2,5.51,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-10-01,UNRATE,6.0,Unemployment Rate
+2003-10-31,DRTSCIS,-1.8,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2003-10-31,BAMLH0A0HYM2,4.73,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-11-01,UNRATE,5.8,Unemployment Rate
+2003-11-30,BAMLH0A0HYM2,4.48,ICE BofA US High Yield Index Option-Adjusted Spread
+2003-12-01,UNRATE,5.7,Unemployment Rate
+2003-12-31,BAMLH0A0HYM2,4.18,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-01-01,UNRATE,5.7,Unemployment Rate
+2004-01-31,DRTSCIS,-10.9,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2004-01-31,BAMLH0A0HYM2,4.05,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-02-01,UNRATE,5.6,Unemployment Rate
+2004-02-29,BAMLH0A0HYM2,4.34,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-03-01,UNRATE,5.8,Unemployment Rate
+2004-03-31,BAMLH0A0HYM2,4.41,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-04-01,UNRATE,5.6,Unemployment Rate
+2004-04-30,DRTSCIS,-19.3,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2004-04-30,BAMLH0A0HYM2,3.91,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-05-01,UNRATE,5.6,Unemployment Rate
+2004-05-31,BAMLH0A0HYM2,4.28,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-06-01,UNRATE,5.6,Unemployment Rate
+2004-06-30,BAMLH0A0HYM2,4.1,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-07-01,UNRATE,5.5,Unemployment Rate
+2004-07-31,DRTSCIS,-3.6,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2004-07-31,BAMLH0A0HYM2,4.02,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-08-01,UNRATE,5.4,Unemployment Rate
+2004-08-31,BAMLH0A0HYM2,4.06,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-09-01,UNRATE,5.4,Unemployment Rate
+2004-09-30,BAMLH0A0HYM2,3.83,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-10-01,UNRATE,5.5,Unemployment Rate
+2004-10-31,DRTSCIS,-18.2,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2004-10-31,BAMLH0A0HYM2,3.63,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-11-01,UNRATE,5.4,Unemployment Rate
+2004-11-30,BAMLH0A0HYM2,3.17,ICE BofA US High Yield Index Option-Adjusted Spread
+2004-12-01,UNRATE,5.4,Unemployment Rate
+2004-12-31,BAMLH0A0HYM2,3.1,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-01-01,UNRATE,5.3,Unemployment Rate
+2005-01-31,DRTSCIS,-13.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2005-01-31,BAMLH0A0HYM2,3.29,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-02-01,UNRATE,5.4,Unemployment Rate
+2005-02-28,BAMLH0A0HYM2,2.83,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-03-01,UNRATE,5.2,Unemployment Rate
+2005-03-31,BAMLH0A0HYM2,3.52,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-04-01,UNRATE,5.2,Unemployment Rate
+2005-04-30,DRTSCIS,-24.1,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2005-04-30,BAMLH0A0HYM2,4.19,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-05-01,UNRATE,5.1,Unemployment Rate
+2005-05-31,BAMLH0A0HYM2,4.13,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-06-01,UNRATE,5.0,Unemployment Rate
+2005-06-30,BAMLH0A0HYM2,3.85,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-07-01,UNRATE,5.0,Unemployment Rate
+2005-07-31,DRTSCIS,-11.1,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2005-07-31,BAMLH0A0HYM2,3.3,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-08-01,UNRATE,4.9,Unemployment Rate
+2005-08-31,BAMLH0A0HYM2,3.66,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-09-01,UNRATE,5.0,Unemployment Rate
+2005-09-30,BAMLH0A0HYM2,3.54,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-10-01,UNRATE,5.0,Unemployment Rate
+2005-10-31,DRTSCIS,-5.3,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2005-10-31,BAMLH0A0HYM2,3.61,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-11-01,UNRATE,5.0,Unemployment Rate
+2005-11-30,BAMLH0A0HYM2,3.67,ICE BofA US High Yield Index Option-Adjusted Spread
+2005-12-01,UNRATE,4.9,Unemployment Rate
+2005-12-31,BAMLH0A0HYM2,3.71,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-01-01,UNRATE,4.7,Unemployment Rate
+2006-01-31,DRTSCIS,-7.1,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2006-01-31,BAMLH0A0HYM2,3.42,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-02-01,UNRATE,4.8,Unemployment Rate
+2006-02-28,BAMLH0A0HYM2,3.37,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-03-01,UNRATE,4.7,Unemployment Rate
+2006-03-31,BAMLH0A0HYM2,3.13,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-04-01,UNRATE,4.7,Unemployment Rate
+2006-04-30,DRTSCIS,-7.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2006-04-30,BAMLH0A0HYM2,3.04,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-05-01,UNRATE,4.6,Unemployment Rate
+2006-05-31,BAMLH0A0HYM2,3.12,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-06-01,UNRATE,4.6,Unemployment Rate
+2006-06-30,BAMLH0A0HYM2,3.35,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-07-01,UNRATE,4.7,Unemployment Rate
+2006-07-31,DRTSCIS,-1.8,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2006-07-31,BAMLH0A0HYM2,3.45,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-08-01,UNRATE,4.7,Unemployment Rate
+2006-08-31,BAMLH0A0HYM2,3.49,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-09-01,UNRATE,4.5,Unemployment Rate
+2006-09-30,BAMLH0A0HYM2,3.44,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-10-01,UNRATE,4.4,Unemployment Rate
+2006-10-31,DRTSCIS,-1.9,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2006-10-31,BAMLH0A0HYM2,3.29,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-11-01,UNRATE,4.5,Unemployment Rate
+2006-11-30,BAMLH0A0HYM2,3.2,ICE BofA US High Yield Index Option-Adjusted Spread
+2006-12-01,UNRATE,4.4,Unemployment Rate
+2006-12-31,BAMLH0A0HYM2,2.89,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-01-01,UNRATE,4.6,Unemployment Rate
+2007-01-31,DRTSCIS,5.4,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2007-01-31,BAMLH0A0HYM2,2.72,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-02-01,UNRATE,4.5,Unemployment Rate
+2007-02-28,BAMLH0A0HYM2,2.82,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-03-01,UNRATE,4.4,Unemployment Rate
+2007-03-31,BAMLH0A0HYM2,2.85,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-04-01,UNRATE,4.5,Unemployment Rate
+2007-04-30,DRTSCIS,1.9,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2007-04-30,BAMLH0A0HYM2,2.74,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-05-01,UNRATE,4.4,Unemployment Rate
+2007-05-31,BAMLH0A0HYM2,2.46,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-06-01,UNRATE,4.6,Unemployment Rate
+2007-06-30,BAMLH0A0HYM2,2.98,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-07-01,UNRATE,4.7,Unemployment Rate
+2007-07-31,DRTSCIS,7.7,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2007-07-31,BAMLH0A0HYM2,4.19,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-08-01,UNRATE,4.6,Unemployment Rate
+2007-08-31,BAMLH0A0HYM2,4.55,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-09-01,UNRATE,4.7,Unemployment Rate
+2007-09-30,BAMLH0A0HYM2,4.2,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-10-01,UNRATE,4.7,Unemployment Rate
+2007-10-31,DRTSCIS,9.6,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2007-10-31,BAMLH0A0HYM2,4.36,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-11-01,UNRATE,4.7,Unemployment Rate
+2007-11-30,BAMLH0A0HYM2,5.75,ICE BofA US High Yield Index Option-Adjusted Spread
+2007-12-01,UNRATE,5.0,Unemployment Rate
+2007-12-31,BAMLH0A0HYM2,5.92,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-01-01,UNRATE,5.0,Unemployment Rate
+2008-01-31,DRTSCIS,30.4,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2008-01-31,BAMLH0A0HYM2,6.95,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-02-01,UNRATE,4.9,Unemployment Rate
+2008-02-29,BAMLH0A0HYM2,7.67,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-03-01,UNRATE,5.1,Unemployment Rate
+2008-03-31,BAMLH0A0HYM2,8.21,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-04-01,UNRATE,5.0,Unemployment Rate
+2008-04-30,DRTSCIS,51.8,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2008-04-30,BAMLH0A0HYM2,6.86,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-05-01,UNRATE,5.4,Unemployment Rate
+2008-05-31,BAMLH0A0HYM2,6.53,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-06-01,UNRATE,5.6,Unemployment Rate
+2008-06-30,BAMLH0A0HYM2,7.35,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-07-01,UNRATE,5.8,Unemployment Rate
+2008-07-31,DRTSCIS,65.4,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2008-07-31,BAMLH0A0HYM2,8.0,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-08-01,UNRATE,6.1,Unemployment Rate
+2008-08-31,BAMLH0A0HYM2,8.36,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-09-01,UNRATE,6.1,Unemployment Rate
+2008-09-30,BAMLH0A0HYM2,10.96,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-10-01,UNRATE,6.5,Unemployment Rate
+2008-10-31,DRTSCIS,74.5,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2008-10-31,BAMLH0A0HYM2,16.17,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-11-01,UNRATE,6.8,Unemployment Rate
+2008-11-30,BAMLH0A0HYM2,19.88,ICE BofA US High Yield Index Option-Adjusted Spread
+2008-12-01,UNRATE,7.3,Unemployment Rate
+2008-12-31,BAMLH0A0HYM2,18.12,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-01-01,UNRATE,7.8,Unemployment Rate
+2009-01-31,DRTSCIS,69.2,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2009-01-31,BAMLH0A0HYM2,16.26,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-02-01,UNRATE,8.3,Unemployment Rate
+2009-02-28,BAMLH0A0HYM2,17.38,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-03-01,UNRATE,8.7,Unemployment Rate
+2009-03-31,BAMLH0A0HYM2,17.03,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-04-01,UNRATE,9.0,Unemployment Rate
+2009-04-30,DRTSCIS,42.3,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2009-04-30,BAMLH0A0HYM2,13.45,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-05-01,UNRATE,9.4,Unemployment Rate
+2009-05-31,BAMLH0A0HYM2,11.7,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-06-01,UNRATE,9.5,Unemployment Rate
+2009-06-30,BAMLH0A0HYM2,10.55,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-07-01,UNRATE,9.5,Unemployment Rate
+2009-07-31,DRTSCIS,34.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2009-07-31,BAMLH0A0HYM2,9.22,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-08-01,UNRATE,9.6,Unemployment Rate
+2009-08-31,BAMLH0A0HYM2,9.12,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-09-01,UNRATE,9.8,Unemployment Rate
+2009-09-30,BAMLH0A0HYM2,7.93,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-10-01,UNRATE,10.0,Unemployment Rate
+2009-10-31,DRTSCIS,16.1,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2009-10-31,BAMLH0A0HYM2,7.6,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-11-01,UNRATE,9.9,Unemployment Rate
+2009-11-30,BAMLH0A0HYM2,7.65,ICE BofA US High Yield Index Option-Adjusted Spread
+2009-12-01,UNRATE,9.9,Unemployment Rate
+2009-12-31,BAMLH0A0HYM2,6.39,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-01-01,UNRATE,9.8,Unemployment Rate
+2010-01-31,DRTSCIS,3.7,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2010-01-31,BAMLH0A0HYM2,6.54,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-02-01,UNRATE,9.8,Unemployment Rate
+2010-02-28,BAMLH0A0HYM2,6.71,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-03-01,UNRATE,9.9,Unemployment Rate
+2010-03-31,BAMLH0A0HYM2,5.84,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-04-01,UNRATE,9.9,Unemployment Rate
+2010-04-30,DRTSCIS,0.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2010-04-30,BAMLH0A0HYM2,5.61,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-05-01,UNRATE,9.6,Unemployment Rate
+2010-05-31,BAMLH0A0HYM2,6.98,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-06-01,UNRATE,9.4,Unemployment Rate
+2010-06-30,BAMLH0A0HYM2,7.13,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-07-01,UNRATE,9.4,Unemployment Rate
+2010-07-31,DRTSCIS,-9.1,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2010-07-31,BAMLH0A0HYM2,6.59,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-08-01,UNRATE,9.5,Unemployment Rate
+2010-08-31,BAMLH0A0HYM2,6.92,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-09-01,UNRATE,9.5,Unemployment Rate
+2010-09-30,BAMLH0A0HYM2,6.26,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-10-01,UNRATE,9.4,Unemployment Rate
+2010-10-31,DRTSCIS,-7.1,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2010-10-31,BAMLH0A0HYM2,5.93,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-11-01,UNRATE,9.8,Unemployment Rate
+2010-11-30,BAMLH0A0HYM2,6.22,ICE BofA US High Yield Index Option-Adjusted Spread
+2010-12-01,UNRATE,9.3,Unemployment Rate
+2010-12-31,BAMLH0A0HYM2,5.41,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-01-01,UNRATE,9.1,Unemployment Rate
+2011-01-31,DRTSCIS,-1.9,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2011-01-31,BAMLH0A0HYM2,5.08,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-02-01,UNRATE,9.0,Unemployment Rate
+2011-02-28,BAMLH0A0HYM2,4.78,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-03-01,UNRATE,9.0,Unemployment Rate
+2011-03-31,BAMLH0A0HYM2,4.77,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-04-01,UNRATE,9.1,Unemployment Rate
+2011-04-30,DRTSCIS,-13.5,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2011-04-30,BAMLH0A0HYM2,4.76,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-05-01,UNRATE,9.0,Unemployment Rate
+2011-05-31,BAMLH0A0HYM2,5.09,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-06-01,UNRATE,9.1,Unemployment Rate
+2011-06-30,BAMLH0A0HYM2,5.42,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-07-01,UNRATE,9.0,Unemployment Rate
+2011-07-31,DRTSCIS,-7.8,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2011-07-31,BAMLH0A0HYM2,5.58,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-08-01,UNRATE,9.0,Unemployment Rate
+2011-08-31,BAMLH0A0HYM2,7.3,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-09-01,UNRATE,9.0,Unemployment Rate
+2011-09-30,BAMLH0A0HYM2,8.41,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-10-01,UNRATE,8.8,Unemployment Rate
+2011-10-31,DRTSCIS,-6.3,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2011-10-31,BAMLH0A0HYM2,7.07,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-11-01,UNRATE,8.6,Unemployment Rate
+2011-11-30,BAMLH0A0HYM2,7.79,ICE BofA US High Yield Index Option-Adjusted Spread
+2011-12-01,UNRATE,8.5,Unemployment Rate
+2011-12-31,BAMLH0A0HYM2,7.23,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-01-01,UNRATE,8.3,Unemployment Rate
+2012-01-31,DRTSCIS,1.9,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2012-01-31,BAMLH0A0HYM2,6.61,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-02-01,UNRATE,8.3,Unemployment Rate
+2012-02-29,BAMLH0A0HYM2,5.98,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-03-01,UNRATE,8.2,Unemployment Rate
+2012-03-31,BAMLH0A0HYM2,5.99,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-04-01,UNRATE,8.2,Unemployment Rate
+2012-04-30,DRTSCIS,-1.8,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2012-04-30,BAMLH0A0HYM2,6.04,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-05-01,UNRATE,8.2,Unemployment Rate
+2012-05-31,BAMLH0A0HYM2,6.96,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-06-01,UNRATE,8.2,Unemployment Rate
+2012-06-30,BAMLH0A0HYM2,6.44,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-07-01,UNRATE,8.2,Unemployment Rate
+2012-07-31,DRTSCIS,-4.9,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2012-07-31,BAMLH0A0HYM2,6.16,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-08-01,UNRATE,8.1,Unemployment Rate
+2012-08-31,BAMLH0A0HYM2,5.98,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-09-01,UNRATE,7.8,Unemployment Rate
+2012-09-30,BAMLH0A0HYM2,5.74,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-10-01,UNRATE,7.8,Unemployment Rate
+2012-10-31,DRTSCIS,-7.6,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2012-10-31,BAMLH0A0HYM2,5.63,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-11-01,UNRATE,7.7,Unemployment Rate
+2012-11-30,BAMLH0A0HYM2,5.65,ICE BofA US High Yield Index Option-Adjusted Spread
+2012-12-01,UNRATE,7.9,Unemployment Rate
+2012-12-31,BAMLH0A0HYM2,5.34,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-01-01,UNRATE,8.0,Unemployment Rate
+2013-01-31,DRTSCIS,-7.7,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2013-01-31,BAMLH0A0HYM2,4.95,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-02-01,UNRATE,7.7,Unemployment Rate
+2013-02-28,BAMLH0A0HYM2,4.98,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-03-01,UNRATE,7.5,Unemployment Rate
+2013-03-31,BAMLH0A0HYM2,4.86,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-04-01,UNRATE,7.6,Unemployment Rate
+2013-04-30,DRTSCIS,-23.1,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2013-04-30,BAMLH0A0HYM2,4.55,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-05-01,UNRATE,7.5,Unemployment Rate
+2013-05-31,BAMLH0A0HYM2,4.62,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-06-01,UNRATE,7.5,Unemployment Rate
+2013-06-30,BAMLH0A0HYM2,5.21,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-07-01,UNRATE,7.3,Unemployment Rate
+2013-07-31,DRTSCIS,-10.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2013-07-31,BAMLH0A0HYM2,4.71,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-08-01,UNRATE,7.2,Unemployment Rate
+2013-08-29,BAMLH0A0HYM2,4.76,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-09-01,UNRATE,7.2,Unemployment Rate
+2013-09-30,BAMLH0A0HYM2,4.83,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-10-01,UNRATE,7.2,Unemployment Rate
+2013-10-31,DRTSCIS,-7.1,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2013-10-31,BAMLH0A0HYM2,4.36,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-11-01,UNRATE,6.9,Unemployment Rate
+2013-11-30,BAMLH0A0HYM2,4.27,ICE BofA US High Yield Index Option-Adjusted Spread
+2013-12-01,UNRATE,6.7,Unemployment Rate
+2013-12-31,BAMLH0A0HYM2,4.0,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-01-01,UNRATE,6.6,Unemployment Rate
+2014-01-31,DRTSCIS,-4.2,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2014-01-31,BAMLH0A0HYM2,4.21,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-02-01,UNRATE,6.7,Unemployment Rate
+2014-02-28,BAMLH0A0HYM2,3.81,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-03-01,UNRATE,6.7,Unemployment Rate
+2014-03-31,BAMLH0A0HYM2,3.77,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-04-01,UNRATE,6.2,Unemployment Rate
+2014-04-30,DRTSCIS,-7.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2014-04-30,BAMLH0A0HYM2,3.71,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-05-01,UNRATE,6.3,Unemployment Rate
+2014-05-31,BAMLH0A0HYM2,3.67,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-06-01,UNRATE,6.1,Unemployment Rate
+2014-06-30,BAMLH0A0HYM2,3.53,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-07-01,UNRATE,6.2,Unemployment Rate
+2014-07-31,DRTSCIS,-8.3,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2014-07-31,BAMLH0A0HYM2,4.04,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-08-01,UNRATE,6.1,Unemployment Rate
+2014-08-31,BAMLH0A0HYM2,3.84,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-09-01,UNRATE,5.9,Unemployment Rate
+2014-09-30,BAMLH0A0HYM2,4.4,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-10-01,UNRATE,5.7,Unemployment Rate
+2014-10-31,DRTSCIS,-8.2,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2014-10-31,BAMLH0A0HYM2,4.3,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-11-01,UNRATE,5.8,Unemployment Rate
+2014-11-30,BAMLH0A0HYM2,4.67,ICE BofA US High Yield Index Option-Adjusted Spread
+2014-12-01,UNRATE,5.6,Unemployment Rate
+2014-12-31,BAMLH0A0HYM2,5.04,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-01-01,UNRATE,5.7,Unemployment Rate
+2015-01-31,DRTSCIS,-5.7,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2015-01-31,BAMLH0A0HYM2,5.26,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-02-01,UNRATE,5.5,Unemployment Rate
+2015-02-28,BAMLH0A0HYM2,4.46,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-03-01,UNRATE,5.4,Unemployment Rate
+2015-03-31,BAMLH0A0HYM2,4.82,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-04-01,UNRATE,5.4,Unemployment Rate
+2015-04-30,DRTSCIS,-1.4,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2015-04-30,BAMLH0A0HYM2,4.59,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-05-01,UNRATE,5.6,Unemployment Rate
+2015-05-31,BAMLH0A0HYM2,4.58,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-06-01,UNRATE,5.3,Unemployment Rate
+2015-06-30,BAMLH0A0HYM2,5.0,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-07-01,UNRATE,5.2,Unemployment Rate
+2015-07-31,DRTSCIS,-6.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2015-07-31,BAMLH0A0HYM2,5.36,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-08-01,UNRATE,5.1,Unemployment Rate
+2015-08-31,BAMLH0A0HYM2,5.7,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-09-01,UNRATE,5.0,Unemployment Rate
+2015-09-30,BAMLH0A0HYM2,6.62,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-10-01,UNRATE,5.0,Unemployment Rate
+2015-10-31,DRTSCIS,1.5,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2015-10-31,BAMLH0A0HYM2,5.9,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-11-01,UNRATE,5.1,Unemployment Rate
+2015-11-30,BAMLH0A0HYM2,6.4,ICE BofA US High Yield Index Option-Adjusted Spread
+2015-12-01,UNRATE,5.0,Unemployment Rate
+2015-12-31,BAMLH0A0HYM2,6.95,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-01-01,UNRATE,4.8,Unemployment Rate
+2016-01-31,DRTSCIS,4.2,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2016-01-31,BAMLH0A0HYM2,7.77,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-02-01,UNRATE,4.9,Unemployment Rate
+2016-02-29,BAMLH0A0HYM2,7.75,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-03-01,UNRATE,5.0,Unemployment Rate
+2016-03-31,BAMLH0A0HYM2,7.05,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-04-01,UNRATE,5.1,Unemployment Rate
+2016-04-30,DRTSCIS,5.8,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2016-04-30,BAMLH0A0HYM2,6.21,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-05-01,UNRATE,4.8,Unemployment Rate
+2016-05-31,BAMLH0A0HYM2,5.97,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-06-01,UNRATE,4.9,Unemployment Rate
+2016-06-30,BAMLH0A0HYM2,6.21,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-07-01,UNRATE,4.8,Unemployment Rate
+2016-07-31,DRTSCIS,7.1,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2016-07-31,BAMLH0A0HYM2,5.69,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-08-01,UNRATE,4.9,Unemployment Rate
+2016-08-31,BAMLH0A0HYM2,5.1,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-09-01,UNRATE,5.0,Unemployment Rate
+2016-09-30,BAMLH0A0HYM2,4.97,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-10-01,UNRATE,4.9,Unemployment Rate
+2016-10-31,DRTSCIS,-1.5,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2016-10-31,BAMLH0A0HYM2,4.91,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-11-01,UNRATE,4.7,Unemployment Rate
+2016-11-30,BAMLH0A0HYM2,4.67,ICE BofA US High Yield Index Option-Adjusted Spread
+2016-12-01,UNRATE,4.7,Unemployment Rate
+2016-12-31,BAMLH0A0HYM2,4.22,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-01-01,UNRATE,4.7,Unemployment Rate
+2017-01-31,DRTSCIS,0.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2017-01-31,BAMLH0A0HYM2,4.0,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-02-01,UNRATE,4.6,Unemployment Rate
+2017-02-28,BAMLH0A0HYM2,3.74,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-03-01,UNRATE,4.4,Unemployment Rate
+2017-03-31,BAMLH0A0HYM2,3.92,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-04-01,UNRATE,4.5,Unemployment Rate
+2017-04-30,DRTSCIS,-2.9,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2017-04-30,BAMLH0A0HYM2,3.81,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-05-01,UNRATE,4.4,Unemployment Rate
+2017-05-31,BAMLH0A0HYM2,3.74,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-06-01,UNRATE,4.3,Unemployment Rate
+2017-06-30,BAMLH0A0HYM2,3.77,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-07-01,UNRATE,4.3,Unemployment Rate
+2017-07-31,DRTSCIS,-4.1,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2017-07-31,BAMLH0A0HYM2,3.61,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-08-01,UNRATE,4.4,Unemployment Rate
+2017-08-31,BAMLH0A0HYM2,3.85,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-09-01,UNRATE,4.2,Unemployment Rate
+2017-09-30,BAMLH0A0HYM2,3.56,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-10-01,UNRATE,4.1,Unemployment Rate
+2017-10-31,DRTSCIS,-8.8,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2017-10-31,BAMLH0A0HYM2,3.51,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-11-01,UNRATE,4.2,Unemployment Rate
+2017-11-30,BAMLH0A0HYM2,3.61,ICE BofA US High Yield Index Option-Adjusted Spread
+2017-12-01,UNRATE,4.1,Unemployment Rate
+2017-12-31,BAMLH0A0HYM2,3.63,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-01-01,UNRATE,4.0,Unemployment Rate
+2018-01-31,DRTSCIS,0.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2018-01-31,BAMLH0A0HYM2,3.29,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-02-01,UNRATE,4.1,Unemployment Rate
+2018-02-28,BAMLH0A0HYM2,3.47,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-03-01,UNRATE,4.0,Unemployment Rate
+2018-03-31,BAMLH0A0HYM2,3.72,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-04-01,UNRATE,4.0,Unemployment Rate
+2018-04-30,DRTSCIS,-3.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2018-04-30,BAMLH0A0HYM2,3.46,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-05-01,UNRATE,3.8,Unemployment Rate
+2018-05-31,BAMLH0A0HYM2,3.63,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-06-01,UNRATE,4.0,Unemployment Rate
+2018-06-30,BAMLH0A0HYM2,3.71,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-07-01,UNRATE,3.8,Unemployment Rate
+2018-07-31,DRTSCIS,-7.6,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2018-07-31,BAMLH0A0HYM2,3.46,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-08-01,UNRATE,3.8,Unemployment Rate
+2018-08-31,BAMLH0A0HYM2,3.49,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-09-01,UNRATE,3.7,Unemployment Rate
+2018-09-30,BAMLH0A0HYM2,3.28,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-10-01,UNRATE,3.8,Unemployment Rate
+2018-10-31,DRTSCIS,-3.1,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2018-10-31,BAMLH0A0HYM2,3.81,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-11-01,UNRATE,3.8,Unemployment Rate
+2018-11-30,BAMLH0A0HYM2,4.29,ICE BofA US High Yield Index Option-Adjusted Spread
+2018-12-01,UNRATE,3.9,Unemployment Rate
+2018-12-31,BAMLH0A0HYM2,5.33,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-01-01,UNRATE,4.0,Unemployment Rate
+2019-01-31,DRTSCIS,4.3,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2019-01-31,BAMLH0A0HYM2,4.37,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-02-01,UNRATE,3.8,Unemployment Rate
+2019-02-28,BAMLH0A0HYM2,3.92,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-03-01,UNRATE,3.8,Unemployment Rate
+2019-03-31,BAMLH0A0HYM2,4.05,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-04-01,UNRATE,3.7,Unemployment Rate
+2019-04-30,DRTSCIS,0.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2019-04-30,BAMLH0A0HYM2,3.73,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-05-01,UNRATE,3.7,Unemployment Rate
+2019-05-31,BAMLH0A0HYM2,4.59,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-06-01,UNRATE,3.6,Unemployment Rate
+2019-06-30,BAMLH0A0HYM2,4.07,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-07-01,UNRATE,3.6,Unemployment Rate
+2019-07-31,DRTSCIS,-5.8,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2019-07-31,BAMLH0A0HYM2,3.93,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-08-01,UNRATE,3.7,Unemployment Rate
+2019-08-31,BAMLH0A0HYM2,4.13,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-09-01,UNRATE,3.5,Unemployment Rate
+2019-09-30,BAMLH0A0HYM2,4.02,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-10-01,UNRATE,3.6,Unemployment Rate
+2019-10-31,DRTSCIS,5.6,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2019-10-31,BAMLH0A0HYM2,4.15,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-11-01,UNRATE,3.6,Unemployment Rate
+2019-11-30,BAMLH0A0HYM2,4.02,ICE BofA US High Yield Index Option-Adjusted Spread
+2019-12-01,UNRATE,3.6,Unemployment Rate
+2019-12-31,BAMLH0A0HYM2,3.6,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-01-01,UNRATE,3.5,Unemployment Rate
+2020-01-31,DRTSCIS,-1.4,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2020-01-31,BAMLH0A0HYM2,4.03,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-02-01,UNRATE,3.5,Unemployment Rate
+2020-02-29,BAMLH0A0HYM2,5.06,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-03-01,UNRATE,4.4,Unemployment Rate
+2020-03-31,BAMLH0A0HYM2,8.77,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-04-01,UNRATE,14.8,Unemployment Rate
+2020-04-30,DRTSCIS,39.7,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2020-04-30,BAMLH0A0HYM2,7.63,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-05-01,UNRATE,13.3,Unemployment Rate
+2020-05-31,BAMLH0A0HYM2,6.54,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-06-01,UNRATE,11.1,Unemployment Rate
+2020-06-30,BAMLH0A0HYM2,6.44,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-07-01,UNRATE,10.2,Unemployment Rate
+2020-07-31,DRTSCIS,70.0,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2020-07-31,BAMLH0A0HYM2,5.16,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-08-01,UNRATE,8.4,Unemployment Rate
+2020-08-31,BAMLH0A0HYM2,5.02,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-09-01,UNRATE,7.8,Unemployment Rate
+2020-09-30,BAMLH0A0HYM2,5.41,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-10-01,UNRATE,6.9,Unemployment Rate
+2020-10-31,DRTSCIS,31.3,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Small Firms
+2020-10-31,BAMLH0A0HYM2,5.32,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-11-01,UNRATE,6.7,Unemployment Rate
+2020-11-30,BAMLH0A0HYM2,4.33,ICE BofA US High Yield Index Option-Adjusted Spread
+2020-12-01,UNRATE,6.7,Unemployment Rate
+2020-12-31,BAMLH0A0HYM2,3.86,ICE BofA US High Yield Index Option-Adjusted Spread
