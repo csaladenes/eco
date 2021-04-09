@@ -1,12 +1,8 @@
 {
     "description": "Description. by @csaladenes",
-    "width": 610,
-    "height": 420,
+    "width": 500,
+    "height": 350,
     "config": {
-        "view": {
-            "continuousWidth": 610,
-            "continuousHeight": 420
-        },
         "legend": {
             "title": null
         }
